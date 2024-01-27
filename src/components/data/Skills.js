@@ -1,0 +1,90 @@
+export const skills = {
+    skillsArray: [
+        {
+            name: "WEB",
+            x: "0vw",
+            y: "0vw",
+            colorLight: "bg-dark",
+            colorDark: "bg-light",
+        },
+        {
+            name: "HTML5",
+            x: "-25vw",
+            y: "5vw",
+            colorLight: "bg-orange-500",
+            colorDark: "bg-orange-500",
+        },
+        {
+            name: "CSS3",
+            x: "-5vw",
+            y: "-10vw",
+            colorLight: "bg-blue-600",
+            colorDark: "bg-blue-600",
+        },
+        {
+            name: "Javascript",
+            x: "20vw",
+            y: "6vw",
+            colorLight: "bg-yellow-500",
+            colorDark: "bg-yellow-500",
+        },
+        {
+            name: "ReactJS",
+            x: "0vw",
+            y: "12vw",
+            colorLight: "bg-blue-300",
+            colorDark: "bg-blue-300",
+        },
+        {
+            name: "NextJS",
+            x: "-20vw",
+            y: "-15vw",
+            colorLight: "bg-slate-400",
+            colorDark: "bg-slate-400",
+        },
+        {
+            name: "Node.Js",
+            x: "15vw",
+            y: "-12vw",
+            colorLight: "bg-green-600",
+            colorDark: "bg-green-600",
+        },
+        {
+            name: "Redux",
+            x: "32vw",
+            y: "-5vw",
+            colorLight: "bg-violet-700",
+            colorDark: "bg-violet-700",
+        },
+        
+        {
+            name: "Git",
+            x: "0vw",
+            y: "-20vw",
+            colorLight: "bg-orange-500",
+            colorDark: "bg-orange-500",
+        },
+        {
+            name: "NodeJs",
+            x: "-25vw",
+            y: "18vw",
+            colorLight: "bg-amber-400",
+            colorDark: "bg-amber-400",
+        },
+        {
+            name: "npm",
+            x: "-33vw",
+            y: "-7vw",
+            colorLight: "bg-red-600",
+            colorDark: "bg-red-600",
+        },
+        
+        {
+            name: "TailwindCSS",
+            x: "18vw",
+            y: "18vw",
+            colorLight: "bg-cyan-400",
+            colorDark: "bg-cyan-400",
+        },
+    ],
+};
