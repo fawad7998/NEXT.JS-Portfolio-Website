@@ -173,7 +173,7 @@ const NavBar = () => {
 
           <nav className="flex items-center justify-center flex-wrap mt-2">
             <motion.a
-              href="https://twitter.com/GauravAgar81738"
+              href="https://twitter.com/Fawad7998"
               target="_blank"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
@@ -182,7 +182,7 @@ const NavBar = () => {
               <TwitterIcon />
             </motion.a>
             <motion.a
-              href="https://www.linkedin.com/in/gaurav101a/"
+              href="https://www.linkedin.com/in/fawad7998"
               target="_blank"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
@@ -191,7 +191,7 @@ const NavBar = () => {
               <LinkedInIcon />
             </motion.a>
             <motion.a
-              href="https://github.com/gaurav-101"
+              href="https://github.com/fawad7998"
               target="_blank"
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}

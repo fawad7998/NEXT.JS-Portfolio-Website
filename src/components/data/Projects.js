@@ -36,8 +36,8 @@ export const projects = {
     {
       name: 'G.Ed. Tech.',
       //   img: abc,
-      live_demo_url: 'https://gaurav-edtech.vercel.app/',
-      gitHub_url: 'https://github.com/gaurav-101/gedtech',
+      live_demo_url: 'https://Fawad-edtech.vercel.app/',
+      gitHub_url: 'https://github.com/Fawad-101/gedtech',
       technologies: ['#Redux', '#mongoDB', '#razorpay'],
       colSize: 12,
       summary:
@@ -47,7 +47,7 @@ export const projects = {
       name: '5Star Movie Rating',
       //   img: AlexShopEcommerce,
       live_demo_url: 'https://star-movie-rating.vercel.app/',
-      gitHub_url: 'https://github.com/gaurav-101/movie-review',
+      gitHub_url: 'https://github.com/Fawad-101/movie-review',
       technologies: ['#nextJS', '#mongoDB', '#paypal'],
       colSize: 12,
       summary:
@@ -56,8 +56,8 @@ export const projects = {
     {
       name: 'Site web Portfolio',
       //   img: Portfolio,
-      live_demo_url: 'https://gaurav-v-portfolio.vercel.app/',
-      gitHub_url: 'https://github.com/gaurav-101/Portfolio',
+      live_demo_url: 'https://Fawad-v-portfolio.vercel.app/',
+      gitHub_url: 'https://github.com/Fawad-101/Portfolio',
       technologies: ['#nextJS', '#tailwindcss', '#framer-motion'],
       colSize: 6,
       summary:
@@ -66,8 +66,8 @@ export const projects = {
     {
       name: 'Edemy-Learning Platform',
       //   img: Books,
-      live_demo_url: 'https://github.com/gaurav-101/Edemy',
-      gitHub_url: 'https://github.com/gaurav-101/Edemy',
+      live_demo_url: 'https://github.com/Fawad-101/Edemy',
+      gitHub_url: 'https://github.com/Fawad-101/Edemy',
       technologies: ['#ReactJS', '#Redux', '#TypeScript'],
       colSize: 6,
       summary:
@@ -77,7 +77,7 @@ export const projects = {
       name: 'Discord Clone',
       //   img: Shiny,
       live_demo_url: 'https://discord-cloning.netlify.app/',
-      gitHub_url: 'https://github.com/gaurav-101/Discord_clone',
+      gitHub_url: 'https://github.com/Fawad-101/Discord_clone',
       technologies: ['#HTML', '#Javascript', '#TailwindCSS'],
       colSize: 6,
       summary:
@@ -87,7 +87,7 @@ export const projects = {
       name: 'Weather App',
       //   img: Jungle,
       live_demo_url: 'https://weatherapple.netlify.app/',
-      gitHub_url: 'https://github.com/gaurav-101/Weather',
+      gitHub_url: 'https://github.com/Fawad-101/Weather',
       technologies: ['#Javascript', '#HTML5', '#CSS3'],
       colSize: 6,
       summary:
@@ -97,7 +97,7 @@ export const projects = {
       name: 'We Meet',
       //   img: Marvel,
       live_demo_url: 'https://wemeet.onrender.com/',
-      gitHub_url: 'https://github.com/gaurav-101/weMeet',
+      gitHub_url: 'https://github.com/Fawad-101/weMeet',
       technologies: ['#Node Js', '#Webrtc', '#Socket.io'],
       colSize: 12,
       summary: 'Interaction platform using socket.io and webrtc. ',

@@ -38,7 +38,7 @@ const about = () => {
   return (
     <>
       <Head>
-        <title>Gaurav | About Page</title>
+        <title>Fawad | About Page</title>
         <meta name="description" content="any description" />
       </Head>
       <main className="flex w-full flex-col items-center justify-center ">
@@ -54,11 +54,11 @@ const about = () => {
               </h2>
 
               <p className="font-medium dark:text-light">
-                Hi, I&apos;m Gaurav, a web developer and UI/UX designer with a
-                passion for creating beautiful, functional, and user-centered
-                digital experiences. With 4 years of experience in the field. I
-                am always looking for new and innovative ways to bring my
-                clients&apos; visions to life.
+                Hi, I&apos;m Fawad Ahmad, a web developer and UI/UX designer
+                with a passion for creating beautiful, functional, and
+                user-centered digital experiences. With 4 years of experience in
+                the field. I am always looking for new and innovative ways to
+                bring my clients&apos; visions to life.
               </p>
               <p className="my-4 font-medium dark:text-light">
                 I believe that design is about more than just making things look

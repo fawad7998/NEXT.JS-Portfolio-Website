@@ -15,10 +15,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Gaurav | PortFolio</title>
-        <meta name="description" content="Gaurav | PortFolio" />
-        <meta property="og:title" content="Gaurav | PortFolio" />
-        <meta property="og:description" content="Gaurav | PortFolio" />
+        <title>Fawad | PortFolio</title>
+        <meta name="description" content="Fawad | PortFolio" />
+        <meta property="og:title" content="Fawad | PortFolio" />
+        <meta property="og:description" content="Fawad | PortFolio" />
       </Head>
       <TransitionEffect />
       <main className="flex items-center text-dark w-full min-h-screen dark:text-light">
@@ -54,7 +54,7 @@ export default function Home() {
                   Resume <LinkArrow className={'w-6 ml-1'} />
                 </Link>
                 <Link
-                  href="mailto:gaurav.coder1@gmail.com"
+                  href="mailto:Fawad.coder1@gmail.com"
                   className="relative group ml-4 text-lg font-medium capitalize text-dark dark:text-light md:text-base"
                 >
                   Contact
@@ -72,7 +72,7 @@ export default function Home() {
         </Layout>
         <HireMe />
         <div className="absolute right-8 bottom-8 inline-block w-24 md:hidden">
-          <Image src={lightBulb} alt="Gaurav" className="w-full h-auto" />
+          <Image src={lightBulb} alt="Fawad" className="w-full h-auto" />
         </div>
       </main>
     </>
